@@ -1,4 +1,4 @@
-module github.com/ahdrr/docker_pull
+module github.com/rxda/docker_pull
 
 go 1.18
 
